@@ -1,0 +1,22 @@
+
+body {
+    background-color:rgb(185, 207, 245);
+    color :rgb(9, 66, 172);
+}
+
+hr{
+    border-color:rgb(129, 161, 221);
+    border-width:5px;
+    border-top-style:dotted;
+    border-bottom-style:none;
+    border-left-style:none;
+    border-right-style:none;
+    height: 0px;
+    width: 10%;
+}
+h1{
+    color:cornflowerblue;
+}
+h3{
+    color:rgb(64, 158, 253);
+}
